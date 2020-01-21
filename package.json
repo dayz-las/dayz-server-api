@@ -1,0 +1,21 @@
+{
+  "name": "dayz-server-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "prettifier": "^0.4.0",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "dayz-server-lib": "git+https://github.com/dayz-las/dayz-server-lib.git",
+    "express": "^4.17.1"
+  }
+}
