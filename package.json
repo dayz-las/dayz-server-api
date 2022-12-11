@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "dayz-server-lib": "git+https://github.com/dayz-las/dayz-server-lib.git",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
